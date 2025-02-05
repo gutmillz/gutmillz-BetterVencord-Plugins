@@ -1,7 +1,7 @@
 # gutmillz-BetterVencord-Plugins
 All the plugins I personally use in BetterVencord!
 
-## [0BDFDB]([https://github.com/gutmillz/gutmillz-BetterVencord-Plugins/blob/main/plugins/0BDFDB.plugin.js)
+## [0BDFDB](https://github.com/gutmillz/gutmillz-BetterVencord-Plugins/blob/main/plugins/0BDFDB.plugin.js)
 ## [BetterImageViewer](https://github.com/gutmillz/gutmillz-BetterVencord-Plugins/blob/main/plugins/BetterImageViewer.plugin.js)
 ## [BetterNSFWTag](https://github.com/gutmillz/gutmillz-BetterVencord-Plugins/blob/main/plugins/BetterNsfwTag.plugin.js)
 ## [CharCounter](https://github.com/gutmillz/gutmillz-BetterVencord-Plugins/blob/main/plugins/CharCounter.plugin.js)
